@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSharpFundmentals.OperatorPrecedence": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
